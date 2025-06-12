@@ -43,7 +43,7 @@ Power BI (or similar business intelligence tool) for dashboard creation and data
 2. Open the file using Power BI Desktop.
 3. Explore the interactive visualizations by using the provided filters and clicking on various elements.
 * If deployed online (e.g., Power BI Service):
-* **Access the live dashboard here: [Link to your published dashboard]
+* Access the live dashboard here: [Link to your published dashboard]
 
 # Future Enhancements
 * Extend the analysis to include more recent data beyond 2020.
