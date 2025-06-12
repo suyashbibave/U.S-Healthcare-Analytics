@@ -52,6 +52,6 @@ Power BI (or similar business intelligence tool) for dashboard creation and data
 * Develop user-specific insights or personalized dashboard views for different healthcare stakeholders.
 
 # Screenshots
-[![Excecutive Summary]](https://github.com/suyashbibave/U.S-Healthcare-Analytics/blob/main/assets/executive_summary.jpg)
+[![Executive Summary Dashboard Screenshot]](https://github.com/suyashbibave/U.S-Healthcare-Analytics/blob/main/assets/executive_summary.jpg)
 # Contact
 [Your Name/GitHub Profile Link]
