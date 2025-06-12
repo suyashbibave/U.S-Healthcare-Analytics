@@ -6,7 +6,7 @@ Welcome to our meticulously crafted U.S. Healthcare Analytics Dashboard, where w
 
 # Key Sections/Analyses
 # 1. Executive Summary
-     Begin your journey with a high-level overview of pivotal trends and metrics that have shaped the U.S. healthcare landscape during the years 2019 to 2020.  This section provides a snapshot of the overarching insights        derived from our comprehensive analysis. 
+* Begin your journey with a high-level overview of pivotal trends and metrics that have shaped the U.S. healthcare landscape during the years 2019 to 2020.  This section provides a snapshot of the overarching insights        derived from our comprehensive analysis. 
 
 Key Metrics: Total Expenses (13.0M) , Insurance Revenue (7.5M) , Patient Revenue (1.5M) , Total Patients (5117) , and Total Payment (9.0M).
 Visualizations: Monthly Expenses Trends , CPT Units Monthly Distribution , Patient Growth Over Time , and Payer-wise CPT Units.
